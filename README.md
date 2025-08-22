@@ -24,7 +24,7 @@ The basic template of the backend application with ready authorization and creat
 
 ## Install
 This project uses uv, if you don't have it, install it. If you need help, please visit their official website.
-https://docs.astral.sh/uv/getting-started/installation/
+`https://docs.astral.sh/uv/getting-started/installation/`
 
 1. Clone repository.
     ```bash
@@ -80,4 +80,7 @@ https://docs.astral.sh/uv/getting-started/installation/
 if you have configured the creation of superuser, you will see a message
 that it has been created or an error if you have incorrectly connected/started your database.
 
+### Endpoints
+You can find all available endpoints at this url.
+`http://localhost:8000/docs`
 Have fun developing!
