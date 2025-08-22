@@ -27,7 +27,6 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "pyright>=1.1.399",
     "pyright>=1.1.403",
 ]
 
