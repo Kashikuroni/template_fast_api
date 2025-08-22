@@ -1,0 +1,30 @@
+### Env settings template
+```
+# Configuring logging
+DEBUG=True
+
+# Configuring the PostgreSQL database.
+DB_HOST=
+DB_PORT=
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+
+# Configuring Superuser
+CREATE_SUPERUSER=False
+SUPERUSER_EMAIL=
+SUPERUSER_PASSWORD=
+SUPERUSER_FIRSTNAME=
+SUPERUSER_LASTNAME=
+SUPERUSER_USERNAME=
+
+# Secrets
+SECRET=
+JWT_SECRET_KEY=
+
+# Configuring Redis
+REDIS_HOST=
+REDIS_PORT=
+REDIS_DB=
+CACHE_TTL=
+```
